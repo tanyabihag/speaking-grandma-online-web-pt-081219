@@ -2,6 +2,8 @@
 
 def speak_to_grandma = "HI GRANDMA"
   if speak_to_grandma == "HI GRANDMA".upcase
+    puts "Hi Sonny"
+  else speak_to_grandma   
     
 
 # Whatever you say to grandma, she should respond with
